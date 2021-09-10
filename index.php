@@ -38,6 +38,8 @@
  * display the words "Powered by SugarCRM" and "Supercharged by SuiteCRM".
  */
 
+ //test
+
 if (!defined('sugarEntry')) {
     define('sugarEntry', true);
 }
